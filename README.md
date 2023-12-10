@@ -4,6 +4,6 @@
 - Step 2: To run the C program (lab6): ```./lab6 <number of customers> <number of seats>```
 ## Inter-process communication
 ![](/images/inter-process.png)
-##Screenshot of my running program
+## Screenshot of my running program
 ![](/images/running.png)
 
